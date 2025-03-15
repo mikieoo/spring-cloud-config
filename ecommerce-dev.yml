@@ -1,0 +1,6 @@
+token:
+  expiration_time: 86400000
+  secret: "asdfghjklzxcvbnmqwertyuio1234567890qetuadg2sdlfkhalfdihasdufh9o283y48y4_dev"
+
+gateway:
+  ip: 192.168.0.4
